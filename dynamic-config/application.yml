@@ -1,4 +1,4 @@
 # Dummy configs on server
 
 my:
-  dummyConfig: test-config
+  dummyConfig: test-config-new
