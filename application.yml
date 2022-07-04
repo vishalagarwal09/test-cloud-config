@@ -1,0 +1,5 @@
+# Dummy configs on server
+
+my:
+  dummy: bar
+  config: [2, 3, 7]
